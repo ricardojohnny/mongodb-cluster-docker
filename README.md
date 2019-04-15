@@ -6,8 +6,7 @@ docker-compose -f docker-compose.1.yml -f docker-compose.2.yml  -f docker-compos
 ```
 
 # Testes
-> Manually for the time being
-
+> Manual
 0. Core tests
 
 Basico *replica* teste no *rs1* replicaset, `mongo-1-1`
